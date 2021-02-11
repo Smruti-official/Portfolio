@@ -149,7 +149,7 @@ img{
 }
 .nav__link{
   position: relative;
-  color: #fff;
+  color: #eff4f7;
 }
 .nav__link:hover{
   position: relative;
@@ -488,7 +488,7 @@ flex-wrap: wrap;
     display: none;
   }
   .nav__link{
-    color: var(--second-color);
+    color: #eff4f7;
   }
 
   .home{
