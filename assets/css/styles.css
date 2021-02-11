@@ -72,7 +72,7 @@ a{
   text-decoration: none;
 }
 img{
-  max-width: 100%;
+  max-width: 75%;
   height: auto;
   display: block;
 }
@@ -201,7 +201,7 @@ img{
   
 }
 .home__title{
-  font-size: var(--big-font-size);
+  font-size: 38px;
   margin-bottom: var(--mb-5);
 }
 .home__title-color{
